@@ -1,4 +1,4 @@
 # VATcalculator
 Calculates value after VAT repeatedly
 
-![VAT Calculator Test Case](./VATcalculatorTestCase.png)
+![VAT Calculator Test Case](./VATcalculatorTestCase.PNG)
